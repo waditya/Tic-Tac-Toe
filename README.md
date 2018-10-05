@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-A React.js based game!
+A React.js based game
